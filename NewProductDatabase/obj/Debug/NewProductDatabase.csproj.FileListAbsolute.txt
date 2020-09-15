@@ -1,0 +1,22 @@
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\bin\Debug\ProductDB.mdf
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\bin\Debug\ProductDB_log.ldf
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\bin\Debug\NewProductDatabase.exe.config
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\bin\Debug\NewProductDatabase.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\bin\Debug\NewProductDatabase.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.Properties.Resources.resources
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.exe
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.pdb
+C:\Users\Kabrina\Documents\FALL 2019\C#\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.ProductsForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\bin\Debug\ProductDB.mdf
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\bin\Debug\ProductDB_log.ldf
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\bin\Debug\NewProductDatabase.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\bin\Debug\NewProductDatabase.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\bin\Debug\NewProductDatabase.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.ProductsForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 11\REVISED WORKING WriteSQLStatement\WriteSQLStatementBrady\NewProductDatabase\NewProductDatabase\obj\Debug\NewProductDatabase.pdb
